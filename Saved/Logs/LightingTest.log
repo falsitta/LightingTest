@@ -1261,3 +1261,211 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.08-19.11.28:159][275]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.10.08-19.11.38:160][395]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.10.08-19.11.43:178][456]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.08-19.24.48:976][700]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Grass_feild" FILE="../../../../../Projects/LightingTest/Content/Materials/Grass_feild.uasset" SILENT=true
+[2019.10.08-19.24.48:995][700]LogSavePackage: Moving '../../../../../Projects/LightingTest/Saved/Grass_feild95540A324BBB6BB035EB3E9D8B4A9C8C.tmp' to '../../../../../Projects/LightingTest/Content/Materials/Grass_feild.uasset'
+[2019.10.08-19.24.49:009][700]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Guard_Color" FILE="../../../../../Projects/LightingTest/Content/Materials/Guard_Color.uasset" SILENT=true
+[2019.10.08-19.24.49:023][700]LogSavePackage: Moving '../../../../../Projects/LightingTest/Saved/Guard_Color70FA75D2413F5F4E3C55C39F6C6AB1C4.tmp' to '../../../../../Projects/LightingTest/Content/Materials/Guard_Color.uasset'
+[2019.10.08-19.24.49:038][700]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/House_Color" FILE="../../../../../Projects/LightingTest/Content/Materials/House_Color.uasset" SILENT=true
+[2019.10.08-19.24.49:054][700]LogSavePackage: Moving '../../../../../Projects/LightingTest/Saved/House_Color9749D843426EEDBA18770EA059EBDFD6.tmp' to '../../../../../Projects/LightingTest/Content/Materials/House_Color.uasset'
+[2019.10.08-19.24.49:067][700]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/House_Glass_Color" FILE="../../../../../Projects/LightingTest/Content/Materials/House_Glass_Color.uasset" SILENT=true
+[2019.10.08-19.24.49:081][700]LogSavePackage: Moving '../../../../../Projects/LightingTest/Saved/House_Glass_ColorC72A06EA4ADEC5D51B24DD84A47FF1CC.tmp' to '../../../../../Projects/LightingTest/Content/Materials/House_Glass_Color.uasset'
+[2019.10.08-19.24.49:086][700]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/MediaPlayerTest2" FILE="../../../../../Projects/LightingTest/Content/Materials/MediaPlayerTest2.uasset" SILENT=true
+[2019.10.08-19.24.49:314][700]LogSavePackage: Moving '../../../../../Projects/LightingTest/Saved/MediaPlayerTest288512D0F4A19874781402F8B12430183.tmp' to '../../../../../Projects/LightingTest/Content/Materials/MediaPlayerTest2.uasset'
+[2019.10.08-19.24.49:329][700]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/MediaPlayerTest2_Mat" FILE="../../../../../Projects/LightingTest/Content/Materials/MediaPlayerTest2_Mat.uasset" SILENT=true
+[2019.10.08-19.24.49:346][700]LogSavePackage: Moving '../../../../../Projects/LightingTest/Saved/MediaPlayerTest2_Mat73E6A4604A0097B1AB14C79C84C1EC98.tmp' to '../../../../../Projects/LightingTest/Content/Materials/MediaPlayerTest2_Mat.uasset'
+[2019.10.08-19.24.49:348][700]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MediaPlayerTest2_Mat" FILE="../../../../../Projects/LightingTest/Content/MediaPlayerTest2_Mat.uasset" SILENT=true
+[2019.10.08-19.24.49:362][700]LogSavePackage: Moving '../../../../../Projects/LightingTest/Saved/MediaPlayerTest2_Mat3A23E8C34767D0BA01B0CEAE5A3631FF.tmp' to '../../../../../Projects/LightingTest/Content/MediaPlayerTest2_Mat.uasset'
+[2019.10.08-19.24.49:365][700]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/PolygolfTrailer" FILE="../../../../../Projects/LightingTest/Content/Materials/PolygolfTrailer.uasset" SILENT=true
+[2019.10.08-19.24.49:371][700]LogSavePackage: Moving '../../../../../Projects/LightingTest/Saved/PolygolfTrailer9AD317DE400F4914E681A897067249D5.tmp' to '../../../../../Projects/LightingTest/Content/Materials/PolygolfTrailer.uasset'
+[2019.10.08-19.24.49:374][700]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PolygolfTrailer" FILE="../../../../../Projects/LightingTest/Content/PolygolfTrailer.uasset" SILENT=true
+[2019.10.08-19.24.49:425][700]LogSavePackage: Moving '../../../../../Projects/LightingTest/Saved/PolygolfTrailer4CF494314E2EA6A676D15EA336798DBF.tmp' to '../../../../../Projects/LightingTest/Content/PolygolfTrailer.uasset'
+[2019.10.08-19.24.49:440][700]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Roof_Color" FILE="../../../../../Projects/LightingTest/Content/Materials/Roof_Color.uasset" SILENT=true
+[2019.10.08-19.24.49:455][700]LogSavePackage: Moving '../../../../../Projects/LightingTest/Saved/Roof_ColorF7D0126341A9093F9373AB876A39E442.tmp' to '../../../../../Projects/LightingTest/Content/Materials/Roof_Color.uasset'
+[2019.10.08-19.24.49:469][700]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/SecondMatTest" FILE="../../../../../Projects/LightingTest/Content/Materials/SecondMatTest.uasset" SILENT=true
+[2019.10.08-19.24.49:485][700]LogSavePackage: Moving '../../../../../Projects/LightingTest/Saved/SecondMatTest47FA0D224EC6EA4D3932088936908DE3.tmp' to '../../../../../Projects/LightingTest/Content/Materials/SecondMatTest.uasset'
+[2019.10.08-19.24.49:487][700]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SecondMatTest" FILE="../../../../../Projects/LightingTest/Content/SecondMatTest.uasset" SILENT=true
+[2019.10.08-19.24.49:511][700]LogSavePackage: Moving '../../../../../Projects/LightingTest/Saved/SecondMatTest6FDD8CEA421A897F71192EA9A25C89D6.tmp' to '../../../../../Projects/LightingTest/Content/SecondMatTest.uasset'
+[2019.10.08-19.24.49:525][700]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/stediam_Color" FILE="../../../../../Projects/LightingTest/Content/Materials/stediam_Color.uasset" SILENT=true
+[2019.10.08-19.24.49:540][700]LogSavePackage: Moving '../../../../../Projects/LightingTest/Saved/stediam_ColorCD20012D4E4DCD8B3B0E80ACFC57319A.tmp' to '../../../../../Projects/LightingTest/Content/Materials/stediam_Color.uasset'
+[2019.10.08-19.24.49:543][700]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/TestMediaPlayer" FILE="../../../../../Projects/LightingTest/Content/Materials/TestMediaPlayer.uasset" SILENT=true
+[2019.10.08-19.24.49:549][700]LogSavePackage: Moving '../../../../../Projects/LightingTest/Saved/TestMediaPlayer3921A11248E7CE19732406A4A9D7248D.tmp' to '../../../../../Projects/LightingTest/Content/Materials/TestMediaPlayer.uasset'
+[2019.10.08-19.24.49:551][700]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestMediaPlayer" FILE="../../../../../Projects/LightingTest/Content/TestMediaPlayer.uasset" SILENT=true
+[2019.10.08-19.24.49:564][700]LogSavePackage: Moving '../../../../../Projects/LightingTest/Saved/TestMediaPlayer582D5B984B5681146D485C919E316D37.tmp' to '../../../../../Projects/LightingTest/Content/TestMediaPlayer.uasset'
+[2019.10.08-19.24.49:567][700]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/TestMediaPlayer2" FILE="../../../../../Projects/LightingTest/Content/Materials/TestMediaPlayer2.uasset" SILENT=true
+[2019.10.08-19.24.49:573][700]LogSavePackage: Moving '../../../../../Projects/LightingTest/Saved/TestMediaPlayer2E62BFD424C8EA89E2EB739ADCF70070E.tmp' to '../../../../../Projects/LightingTest/Content/Materials/TestMediaPlayer2.uasset'
+[2019.10.08-19.24.49:575][700]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestMediaPlayer2" FILE="../../../../../Projects/LightingTest/Content/TestMediaPlayer2.uasset" SILENT=true
+[2019.10.08-19.24.49:590][700]LogSavePackage: Moving '../../../../../Projects/LightingTest/Saved/TestMediaPlayer2726E00234D43C2D807DEC291E238F6A7.tmp' to '../../../../../Projects/LightingTest/Content/TestMediaPlayer2.uasset'
+[2019.10.08-19.24.49:595][700]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/TestMediaPlayer_Video" FILE="../../../../../Projects/LightingTest/Content/Materials/TestMediaPlayer_Video.uasset" SILENT=true
+[2019.10.08-19.24.49:603][700]LogSavePackage: Moving '../../../../../Projects/LightingTest/Saved/TestMediaPlayer_Video63D267704703A1180B9FD7B600971A9A.tmp' to '../../../../../Projects/LightingTest/Content/Materials/TestMediaPlayer_Video.uasset'
+[2019.10.08-19.24.49:617][700]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/TestMediaPlayer_Video_Mat" FILE="../../../../../Projects/LightingTest/Content/Materials/TestMediaPlayer_Video_Mat.uasset" SILENT=true
+[2019.10.08-19.24.49:633][700]LogSavePackage: Moving '../../../../../Projects/LightingTest/Saved/TestMediaPlayer_Video_Mat939E2923410E76E618EDCEA48489E45E.tmp' to '../../../../../Projects/LightingTest/Content/Materials/TestMediaPlayer_Video_Mat.uasset'
+[2019.10.08-19.24.49:635][700]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestMediaPlayer_Video_Mat" FILE="../../../../../Projects/LightingTest/Content/TestMediaPlayer_Video_Mat.uasset" SILENT=true
+[2019.10.08-19.24.49:652][700]LogSavePackage: Moving '../../../../../Projects/LightingTest/Saved/TestMediaPlayer_Video_Mat7391A71742736942BE4BB69886C81626.tmp' to '../../../../../Projects/LightingTest/Content/TestMediaPlayer_Video_Mat.uasset'
+[2019.10.08-19.24.49:654][700]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/TestVideo" FILE="../../../../../Projects/LightingTest/Content/Materials/TestVideo.uasset" SILENT=true
+[2019.10.08-19.24.49:660][700]LogSavePackage: Moving '../../../../../Projects/LightingTest/Saved/TestVideo0D5E2A444914531F47AE5297AE1C004F.tmp' to '../../../../../Projects/LightingTest/Content/Materials/TestVideo.uasset'
+[2019.10.08-19.24.49:662][700]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestVideo" FILE="../../../../../Projects/LightingTest/Content/TestVideo.uasset" SILENT=true
+[2019.10.08-19.24.49:675][700]LogSavePackage: Moving '../../../../../Projects/LightingTest/Saved/TestVideoA6062CA44916B609095C23B9B7EDFCA7.tmp' to '../../../../../Projects/LightingTest/Content/TestVideo.uasset'
+[2019.10.08-19.24.49:690][700]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Wall" FILE="../../../../../Projects/LightingTest/Content/Materials/Wall.uasset" SILENT=true
+[2019.10.08-19.24.49:705][700]LogSavePackage: Moving '../../../../../Projects/LightingTest/Saved/WallB55F652D4FA1B9A7C62531A1F6C9F831.tmp' to '../../../../../Projects/LightingTest/Content/Materials/Wall.uasset'
+[2019.10.08-19.24.51:220][700]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2019.10.08-19.24.51:260][700]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2019.10.08-19.24.51:299][700]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2019.10.08-19.24.51:338][700]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2019.10.08-19.24.51:375][700]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2019.10.08-19.24.51:415][700]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2019.10.08-19.24.51:454][700]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2019.10.08-19.24.51:491][700]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2019.10.08-19.24.51:530][700]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2019.10.08-19.24.51:571][700]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2019.10.08-19.24.51:611][700]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2019.10.08-19.24.51:626][700]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/sports_stadium" FILE="../../../../../Projects/LightingTest/Content/sports_stadium.uasset" SILENT=true
+[2019.10.08-19.24.51:731][700]LogSavePackage: Moving '../../../../../Projects/LightingTest/Saved/sports_stadiumF2135F974E1689368C5083AD422060C7.tmp' to '../../../../../Projects/LightingTest/Content/sports_stadium.uasset'
+[2019.10.08-19.24.51:983][700]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.StarterMap' with GeneratedClass '/Game/StarterContent/Maps/StarterMap.StarterMap_C' with ClassGeneratedBy '/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.StarterMap'
+[2019.10.08-19.24.52:022][700]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.08-19.24.52:023][700]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_StarterMap
+[2019.10.08-19.24.52:024][700]LogWorld: UWorld::CleanupWorld for StarterMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.08-19.24.52:063][700]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.08-19.24.52:063][700]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.StarterMap' with GeneratedClass '/Game/StarterContent/Maps/StarterMap.StarterMap_C' with ClassGeneratedBy '/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.StarterMap'
+[2019.10.08-19.24.52:113][700]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.08-19.24.52:121][700]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2019.10.08-19.24.52:146][701]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.10.08-19.24.57:502][926]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/sports_stadium" FILE="../../../../../Projects/LightingTest/Content/Meshes/sports_stadium.uasset" SILENT=true
+[2019.10.08-19.24.57:612][926]LogSavePackage: Moving '../../../../../Projects/LightingTest/Saved/sports_stadium25A8BB6F42449D6BBD363CA1BBA2A0F0.tmp' to '../../../../../Projects/LightingTest/Content/Meshes/sports_stadium.uasset'
+[2019.10.08-19.24.57:827][926]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2019.10.08-19.24.57:871][926]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2019.10.08-19.24.57:909][926]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2019.10.08-19.25.09:735][400]LogMetaData: Removing '/Game/Blueprints/ColorPickerBP.ColorPickerBP_C' ref from Metadata '/Game/ColorPickerBP.PackageMetaData'
+[2019.10.08-19.25.09:735][400]LogMetaData: Removing '/Game/Blueprints/ColorPickerBP.ColorPickerBP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ColorPickerBP.PackageMetaData'
+[2019.10.08-19.25.09:735][400]LogMetaData: Removing '/Game/Blueprints/ColorPickerBP.ColorPickerBP:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ColorPickerBP.PackageMetaData'
+[2019.10.08-19.25.09:735][400]LogMetaData: Removing '/Game/Blueprints/ColorPickerBP.ColorPickerBP:EventGraph.K2Node_Event_2' ref from Metadata '/Game/ColorPickerBP.PackageMetaData'
+[2019.10.08-19.25.09:735][400]LogMetaData: Removing '/Game/Blueprints/ColorPickerBP.SKEL_ColorPickerBP_C' ref from Metadata '/Game/ColorPickerBP.PackageMetaData'
+[2019.10.08-19.25.09:735][400]LogMetaData: Removing '/Game/Blueprints/ColorPickerBP.ColorPickerBP:SendColorChangeEvent.K2Node_FunctionEntry_0' ref from Metadata '/Game/ColorPickerBP.PackageMetaData'
+[2019.10.08-19.25.09:736][400]LogMetaData: Removing '/Game/Blueprints/ColorPickerBP.SKEL_ColorPickerBP_C:SendColorChangeEvent__DelegateSignature' ref from Metadata '/Game/ColorPickerBP.PackageMetaData'
+[2019.10.08-19.25.09:736][400]LogMetaData: Removing '/Game/Blueprints/ColorPickerBP.SKEL_ColorPickerBP_C:PreConstruct' ref from Metadata '/Game/ColorPickerBP.PackageMetaData'
+[2019.10.08-19.25.09:736][400]LogMetaData: Removing '/Game/Blueprints/ColorPickerBP.SKEL_ColorPickerBP_C:Construct' ref from Metadata '/Game/ColorPickerBP.PackageMetaData'
+[2019.10.08-19.25.09:736][400]LogMetaData: Removing '/Game/Blueprints/ColorPickerBP.SKEL_ColorPickerBP_C:Tick' ref from Metadata '/Game/ColorPickerBP.PackageMetaData'
+[2019.10.08-19.25.09:736][400]LogMetaData: Removing '/Game/Blueprints/ColorPickerBP.SKEL_ColorPickerBP_C:BndEvt__JoyColorWheel_73_K2Node_ComponentBoundEvent_0_OnJoyColorChangedEvent__DelegateSignature' ref from Metadata '/Game/ColorPickerBP.PackageMetaData'
+[2019.10.08-19.25.09:736][400]LogMetaData: Removing '/Game/Blueprints/ColorPickerBP.SKEL_ColorPickerBP_C:SendColorChangeEvent' ref from Metadata '/Game/ColorPickerBP.PackageMetaData'
+[2019.10.08-19.25.09:736][400]LogMetaData: Removing '/Game/Blueprints/ColorPickerBP.SKEL_ColorPickerBP_C:JoyColorWheel_73' ref from Metadata '/Game/ColorPickerBP.PackageMetaData'
+[2019.10.08-19.25.09:736][400]LogMetaData: Removing '/Game/Blueprints/ColorPickerBP.ColorPickerBP_C:SendColorChangeEvent' ref from Metadata '/Game/ColorPickerBP.PackageMetaData'
+[2019.10.08-19.25.09:736][400]LogMetaData: Removing '/Game/Blueprints/ColorPickerBP.ColorPickerBP_C:JoyColorWheel_73' ref from Metadata '/Game/ColorPickerBP.PackageMetaData'
+[2019.10.08-19.25.09:736][400]LogMetaData: Removing '/Game/Blueprints/ColorPickerBP.ColorPickerBP_C:SendColorChangeEvent__DelegateSignature' ref from Metadata '/Game/ColorPickerBP.PackageMetaData'
+[2019.10.08-19.25.09:768][400]LogMetaData: Removing '/Game/Blueprints/LightBP.LightBP:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/LightBP.PackageMetaData'
+[2019.10.08-19.25.09:768][400]LogMetaData: Removing '/Game/Blueprints/LightBP.LightBP_C' ref from Metadata '/Game/LightBP.PackageMetaData'
+[2019.10.08-19.25.09:768][400]LogMetaData: Removing '/Game/Blueprints/LightBP.LightBP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/LightBP.PackageMetaData'
+[2019.10.08-19.25.09:768][400]LogMetaData: Removing '/Game/Blueprints/LightBP.LightBP:EventGraph.K2Node_Event_1' ref from Metadata '/Game/LightBP.PackageMetaData'
+[2019.10.08-19.25.09:769][400]LogMetaData: Removing '/Game/Blueprints/LightBP.LightBP:EventGraph.K2Node_Event_2' ref from Metadata '/Game/LightBP.PackageMetaData'
+[2019.10.08-19.25.09:769][400]LogMetaData: Removing '/Game/Blueprints/LightBP.SKEL_LightBP_C:ReceiveBeginPlay' ref from Metadata '/Game/LightBP.PackageMetaData'
+[2019.10.08-19.25.09:769][400]LogMetaData: Removing '/Game/Blueprints/LightBP.SKEL_LightBP_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/LightBP.PackageMetaData'
+[2019.10.08-19.25.09:769][400]LogMetaData: Removing '/Game/Blueprints/LightBP.SKEL_LightBP_C:ReceiveTick' ref from Metadata '/Game/LightBP.PackageMetaData'
+[2019.10.08-19.25.09:769][400]LogMetaData: Removing '/Game/Blueprints/LightBP.SKEL_LightBP_C:DefaultSceneRoot' ref from Metadata '/Game/LightBP.PackageMetaData'
+[2019.10.08-19.25.09:769][400]LogMetaData: Removing '/Game/Blueprints/LightBP.SKEL_LightBP_C:SpotLight' ref from Metadata '/Game/LightBP.PackageMetaData'
+[2019.10.08-19.25.09:769][400]LogMetaData: Removing '/Game/Blueprints/LightBP.SKEL_LightBP_C:UserConstructionScript' ref from Metadata '/Game/LightBP.PackageMetaData'
+[2019.10.08-19.25.09:769][400]LogMetaData: Removing '/Game/Blueprints/LightBP.SKEL_LightBP_C' ref from Metadata '/Game/LightBP.PackageMetaData'
+[2019.10.08-19.25.09:769][400]LogMetaData: Removing '/Game/Blueprints/LightBP.LightBP_C:DefaultSceneRoot' ref from Metadata '/Game/LightBP.PackageMetaData'
+[2019.10.08-19.25.09:769][400]LogMetaData: Removing '/Game/Blueprints/LightBP.LightBP_C:SpotLight' ref from Metadata '/Game/LightBP.PackageMetaData'
+[2019.10.08-19.25.09:800][400]LogMetaData: Removing '/Game/Blueprints/LightingRotator.LightingRotator_C' ref from Metadata '/Game/LightingRotator.PackageMetaData'
+[2019.10.08-19.25.09:801][400]LogMetaData: Removing '/Game/Blueprints/LightingRotator.LightingRotator:EventGraph.K2Node_Event_0' ref from Metadata '/Game/LightingRotator.PackageMetaData'
+[2019.10.08-19.25.09:801][400]LogMetaData: Removing '/Game/Blueprints/LightingRotator.LightingRotator:EventGraph.K2Node_Event_1' ref from Metadata '/Game/LightingRotator.PackageMetaData'
+[2019.10.08-19.25.09:801][400]LogMetaData: Removing '/Game/Blueprints/LightingRotator.SKEL_LightingRotator_C:ReceiveBeginPlay' ref from Metadata '/Game/LightingRotator.PackageMetaData'
+[2019.10.08-19.25.09:801][400]LogMetaData: Removing '/Game/Blueprints/LightingRotator.SKEL_LightingRotator_C:ReceiveTick' ref from Metadata '/Game/LightingRotator.PackageMetaData'
+[2019.10.08-19.25.09:801][400]LogMetaData: Removing '/Game/Blueprints/LightingRotator.SKEL_LightingRotator_C' ref from Metadata '/Game/LightingRotator.PackageMetaData'
+[2019.10.08-19.25.09:832][400]LogMetaData: Removing '/Game/Blueprints/LightingSpotLightRack.LightingSpotLightRack_C' ref from Metadata '/Game/LightingSpotLightRack.PackageMetaData'
+[2019.10.08-19.25.09:833][400]LogMetaData: Removing '/Game/Blueprints/LightingSpotLightRack.LightingSpotLightRack:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/LightingSpotLightRack.PackageMetaData'
+[2019.10.08-19.25.09:833][400]LogMetaData: Removing '/Game/Blueprints/LightingSpotLightRack.LightingSpotLightRack:EventGraph.K2Node_Event_0' ref from Metadata '/Game/LightingSpotLightRack.PackageMetaData'
+[2019.10.08-19.25.09:833][400]LogMetaData: Removing '/Game/Blueprints/LightingSpotLightRack.LightingSpotLightRack:EventGraph.K2Node_Event_1' ref from Metadata '/Game/LightingSpotLightRack.PackageMetaData'
+[2019.10.08-19.25.09:833][400]LogMetaData: Removing '/Game/Blueprints/LightingSpotLightRack.LightingSpotLightRack:EventGraph.K2Node_Event_2' ref from Metadata '/Game/LightingSpotLightRack.PackageMetaData'
+[2019.10.08-19.25.09:833][400]LogMetaData: Removing '/Game/Blueprints/LightingSpotLightRack.LightingSpotLightRack_C:LightingRotator' ref from Metadata '/Game/LightingSpotLightRack.PackageMetaData'
+[2019.10.08-19.25.09:833][400]LogMetaData: Removing '/Game/Blueprints/LightingSpotLightRack.LightingSpotLightRack_C:SpotLight7' ref from Metadata '/Game/LightingSpotLightRack.PackageMetaData'
+[2019.10.08-19.25.09:833][400]LogMetaData: Removing '/Game/Blueprints/LightingSpotLightRack.LightingSpotLightRack_C:SpotLight6' ref from Metadata '/Game/LightingSpotLightRack.PackageMetaData'
+[2019.10.08-19.25.09:833][400]LogMetaData: Removing '/Game/Blueprints/LightingSpotLightRack.LightingSpotLightRack_C:SpotLight5' ref from Metadata '/Game/LightingSpotLightRack.PackageMetaData'
+[2019.10.08-19.25.09:834][400]LogMetaData: Removing '/Game/Blueprints/LightingSpotLightRack.LightingSpotLightRack_C:SpotLight4' ref from Metadata '/Game/LightingSpotLightRack.PackageMetaData'
+[2019.10.08-19.25.09:834][400]LogMetaData: Removing '/Game/Blueprints/LightingSpotLightRack.LightingSpotLightRack_C:SpotLight3' ref from Metadata '/Game/LightingSpotLightRack.PackageMetaData'
+[2019.10.08-19.25.09:834][400]LogMetaData: Removing '/Game/Blueprints/LightingSpotLightRack.LightingSpotLightRack_C:SpotLight2' ref from Metadata '/Game/LightingSpotLightRack.PackageMetaData'
+[2019.10.08-19.25.09:834][400]LogMetaData: Removing '/Game/Blueprints/LightingSpotLightRack.LightingSpotLightRack_C:SpotLight1' ref from Metadata '/Game/LightingSpotLightRack.PackageMetaData'
+[2019.10.08-19.25.09:834][400]LogMetaData: Removing '/Game/Blueprints/LightingSpotLightRack.LightingSpotLightRack_C:SpotLight' ref from Metadata '/Game/LightingSpotLightRack.PackageMetaData'
+[2019.10.08-19.25.09:834][400]LogMetaData: Removing '/Game/Blueprints/LightingSpotLightRack.LightingSpotLightRack_C:DefaultSceneRoot' ref from Metadata '/Game/LightingSpotLightRack.PackageMetaData'
+[2019.10.08-19.25.09:834][400]LogMetaData: Removing '/Game/Blueprints/LightingSpotLightRack.LightingSpotLightRack_C:Timeline_0' ref from Metadata '/Game/LightingSpotLightRack.PackageMetaData'
+[2019.10.08-19.25.09:834][400]LogMetaData: Removing '/Game/Blueprints/LightingSpotLightRack.LightingSpotLightRack_C:LightArray' ref from Metadata '/Game/LightingSpotLightRack.PackageMetaData'
+[2019.10.08-19.25.09:834][400]LogMetaData: Removing '/Game/Blueprints/LightingSpotLightRack.SKEL_LightingSpotLightRack_C:UserConstructionScript' ref from Metadata '/Game/LightingSpotLightRack.PackageMetaData'
+[2019.10.08-19.25.09:835][400]LogMetaData: Removing '/Game/Blueprints/LightingSpotLightRack.SKEL_LightingSpotLightRack_C:LightingRotator' ref from Metadata '/Game/LightingSpotLightRack.PackageMetaData'
+[2019.10.08-19.25.09:835][400]LogMetaData: Removing '/Game/Blueprints/LightingSpotLightRack.SKEL_LightingSpotLightRack_C:SpotLight7' ref from Metadata '/Game/LightingSpotLightRack.PackageMetaData'
+[2019.10.08-19.25.09:835][400]LogMetaData: Removing '/Game/Blueprints/LightingSpotLightRack.SKEL_LightingSpotLightRack_C:SpotLight6' ref from Metadata '/Game/LightingSpotLightRack.PackageMetaData'
+[2019.10.08-19.25.09:835][400]LogMetaData: Removing '/Game/Blueprints/LightingSpotLightRack.SKEL_LightingSpotLightRack_C:SpotLight5' ref from Metadata '/Game/LightingSpotLightRack.PackageMetaData'
+[2019.10.08-19.25.09:836][400]LogMetaData: Removing '/Game/Blueprints/LightingSpotLightRack.SKEL_LightingSpotLightRack_C:SpotLight4' ref from Metadata '/Game/LightingSpotLightRack.PackageMetaData'
+[2019.10.08-19.25.09:836][400]LogMetaData: Removing '/Game/Blueprints/LightingSpotLightRack.SKEL_LightingSpotLightRack_C:SpotLight3' ref from Metadata '/Game/LightingSpotLightRack.PackageMetaData'
+[2019.10.08-19.25.09:836][400]LogMetaData: Removing '/Game/Blueprints/LightingSpotLightRack.SKEL_LightingSpotLightRack_C:SpotLight2' ref from Metadata '/Game/LightingSpotLightRack.PackageMetaData'
+[2019.10.08-19.25.09:836][400]LogMetaData: Removing '/Game/Blueprints/LightingSpotLightRack.SKEL_LightingSpotLightRack_C:SpotLight1' ref from Metadata '/Game/LightingSpotLightRack.PackageMetaData'
+[2019.10.08-19.25.09:836][400]LogMetaData: Removing '/Game/Blueprints/LightingSpotLightRack.SKEL_LightingSpotLightRack_C:SpotLight' ref from Metadata '/Game/LightingSpotLightRack.PackageMetaData'
+[2019.10.08-19.25.09:836][400]LogMetaData: Removing '/Game/Blueprints/LightingSpotLightRack.SKEL_LightingSpotLightRack_C:DefaultSceneRoot' ref from Metadata '/Game/LightingSpotLightRack.PackageMetaData'
+[2019.10.08-19.25.09:836][400]LogMetaData: Removing '/Game/Blueprints/LightingSpotLightRack.SKEL_LightingSpotLightRack_C:Timeline_0' ref from Metadata '/Game/LightingSpotLightRack.PackageMetaData'
+[2019.10.08-19.25.09:836][400]LogMetaData: Removing '/Game/Blueprints/LightingSpotLightRack.SKEL_LightingSpotLightRack_C:LightArray' ref from Metadata '/Game/LightingSpotLightRack.PackageMetaData'
+[2019.10.08-19.25.09:836][400]LogMetaData: Removing '/Game/Blueprints/LightingSpotLightRack.SKEL_LightingSpotLightRack_C:ReceiveTick' ref from Metadata '/Game/LightingSpotLightRack.PackageMetaData'
+[2019.10.08-19.25.09:836][400]LogMetaData: Removing '/Game/Blueprints/LightingSpotLightRack.SKEL_LightingSpotLightRack_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/LightingSpotLightRack.PackageMetaData'
+[2019.10.08-19.25.09:837][400]LogMetaData: Removing '/Game/Blueprints/LightingSpotLightRack.SKEL_LightingSpotLightRack_C:ReceiveBeginPlay' ref from Metadata '/Game/LightingSpotLightRack.PackageMetaData'
+[2019.10.08-19.25.09:837][400]LogMetaData: Removing '/Game/Blueprints/LightingSpotLightRack.SKEL_LightingSpotLightRack_C' ref from Metadata '/Game/LightingSpotLightRack.PackageMetaData'
+[2019.10.08-19.25.09:837][400]LogMetaData: Removing '/Game/Blueprints/LightingSpotLightRack.LightingSpotLightRack_C:ReceiveTick' ref from Metadata '/Game/LightingSpotLightRack.PackageMetaData'
+[2019.10.08-19.25.09:837][400]LogMetaData: Removing '/Game/Blueprints/LightingSpotLightRack.LightingSpotLightRack_C:ReceiveBeginPlay' ref from Metadata '/Game/LightingSpotLightRack.PackageMetaData'
+[2019.10.08-19.25.09:872][400]LogMetaData: Removing '/Game/Blueprints/LightRotator.LightRotator:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/LightRotator.PackageMetaData'
+[2019.10.08-19.25.09:872][400]LogMetaData: Removing '/Game/Blueprints/LightRotator.LightRotator_C' ref from Metadata '/Game/LightRotator.PackageMetaData'
+[2019.10.08-19.25.09:872][400]LogMetaData: Removing '/Game/Blueprints/LightRotator.LightRotator:EventGraph.K2Node_Event_0' ref from Metadata '/Game/LightRotator.PackageMetaData'
+[2019.10.08-19.25.09:872][400]LogMetaData: Removing '/Game/Blueprints/LightRotator.LightRotator:EventGraph.K2Node_Event_1' ref from Metadata '/Game/LightRotator.PackageMetaData'
+[2019.10.08-19.25.09:872][400]LogMetaData: Removing '/Game/Blueprints/LightRotator.LightRotator:EventGraph.K2Node_Event_2' ref from Metadata '/Game/LightRotator.PackageMetaData'
+[2019.10.08-19.25.09:872][400]LogMetaData: Removing '/Game/Blueprints/LightRotator.SKEL_LightRotator_C:ReceiveBeginPlay' ref from Metadata '/Game/LightRotator.PackageMetaData'
+[2019.10.08-19.25.09:872][400]LogMetaData: Removing '/Game/Blueprints/LightRotator.SKEL_LightRotator_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/LightRotator.PackageMetaData'
+[2019.10.08-19.25.09:873][400]LogMetaData: Removing '/Game/Blueprints/LightRotator.SKEL_LightRotator_C:ReceiveTick' ref from Metadata '/Game/LightRotator.PackageMetaData'
+[2019.10.08-19.25.09:873][400]LogMetaData: Removing '/Game/Blueprints/LightRotator.SKEL_LightRotator_C:DefaultSceneRoot' ref from Metadata '/Game/LightRotator.PackageMetaData'
+[2019.10.08-19.25.09:873][400]LogMetaData: Removing '/Game/Blueprints/LightRotator.SKEL_LightRotator_C:UserConstructionScript' ref from Metadata '/Game/LightRotator.PackageMetaData'
+[2019.10.08-19.25.09:873][400]LogMetaData: Removing '/Game/Blueprints/LightRotator.SKEL_LightRotator_C' ref from Metadata '/Game/LightRotator.PackageMetaData'
+[2019.10.08-19.25.09:873][400]LogMetaData: Removing '/Game/Blueprints/LightRotator.LightRotator_C:DefaultSceneRoot' ref from Metadata '/Game/LightRotator.PackageMetaData'
+[2019.10.08-19.25.09:891][400]LogMetaData: Removing '/Game/Blueprints/VideoBP.VideoBP:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/VideoBP.PackageMetaData'
+[2019.10.08-19.25.09:891][400]LogMetaData: Removing '/Game/Blueprints/VideoBP.VideoBP_C' ref from Metadata '/Game/VideoBP.PackageMetaData'
+[2019.10.08-19.25.09:892][400]LogMetaData: Removing '/Game/Blueprints/VideoBP.VideoBP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/VideoBP.PackageMetaData'
+[2019.10.08-19.25.09:892][400]LogMetaData: Removing '/Game/Blueprints/VideoBP.VideoBP:EventGraph.K2Node_Event_1' ref from Metadata '/Game/VideoBP.PackageMetaData'
+[2019.10.08-19.25.09:892][400]LogMetaData: Removing '/Game/Blueprints/VideoBP.VideoBP:EventGraph.K2Node_Event_2' ref from Metadata '/Game/VideoBP.PackageMetaData'
+[2019.10.08-19.25.09:892][400]LogMetaData: Removing '/Game/Blueprints/VideoBP.SKEL_VideoBP_C:ReceiveBeginPlay' ref from Metadata '/Game/VideoBP.PackageMetaData'
+[2019.10.08-19.25.09:892][400]LogMetaData: Removing '/Game/Blueprints/VideoBP.SKEL_VideoBP_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/VideoBP.PackageMetaData'
+[2019.10.08-19.25.09:892][400]LogMetaData: Removing '/Game/Blueprints/VideoBP.SKEL_VideoBP_C:ReceiveTick' ref from Metadata '/Game/VideoBP.PackageMetaData'
+[2019.10.08-19.25.09:893][400]LogMetaData: Removing '/Game/Blueprints/VideoBP.SKEL_VideoBP_C:Plane' ref from Metadata '/Game/VideoBP.PackageMetaData'
+[2019.10.08-19.25.09:893][400]LogMetaData: Removing '/Game/Blueprints/VideoBP.SKEL_VideoBP_C:Plane1' ref from Metadata '/Game/VideoBP.PackageMetaData'
+[2019.10.08-19.25.09:893][400]LogMetaData: Removing '/Game/Blueprints/VideoBP.SKEL_VideoBP_C:Plane2' ref from Metadata '/Game/VideoBP.PackageMetaData'
+[2019.10.08-19.25.09:893][400]LogMetaData: Removing '/Game/Blueprints/VideoBP.SKEL_VideoBP_C:Plane3' ref from Metadata '/Game/VideoBP.PackageMetaData'
+[2019.10.08-19.25.09:893][400]LogMetaData: Removing '/Game/Blueprints/VideoBP.SKEL_VideoBP_C:Plane4' ref from Metadata '/Game/VideoBP.PackageMetaData'
+[2019.10.08-19.25.09:893][400]LogMetaData: Removing '/Game/Blueprints/VideoBP.SKEL_VideoBP_C:Plane5' ref from Metadata '/Game/VideoBP.PackageMetaData'
+[2019.10.08-19.25.09:893][400]LogMetaData: Removing '/Game/Blueprints/VideoBP.SKEL_VideoBP_C:Plane6' ref from Metadata '/Game/VideoBP.PackageMetaData'
+[2019.10.08-19.25.09:894][400]LogMetaData: Removing '/Game/Blueprints/VideoBP.SKEL_VideoBP_C:Plane7' ref from Metadata '/Game/VideoBP.PackageMetaData'
+[2019.10.08-19.25.09:894][400]LogMetaData: Removing '/Game/Blueprints/VideoBP.SKEL_VideoBP_C:UserConstructionScript' ref from Metadata '/Game/VideoBP.PackageMetaData'
+[2019.10.08-19.25.09:894][400]LogMetaData: Removing '/Game/Blueprints/VideoBP.SKEL_VideoBP_C' ref from Metadata '/Game/VideoBP.PackageMetaData'
+[2019.10.08-19.25.09:894][400]LogMetaData: Removing '/Game/Blueprints/VideoBP.VideoBP_C:Plane' ref from Metadata '/Game/VideoBP.PackageMetaData'
+[2019.10.08-19.25.09:894][400]LogMetaData: Removing '/Game/Blueprints/VideoBP.VideoBP_C:Plane1' ref from Metadata '/Game/VideoBP.PackageMetaData'
+[2019.10.08-19.25.09:894][400]LogMetaData: Removing '/Game/Blueprints/VideoBP.VideoBP_C:Plane2' ref from Metadata '/Game/VideoBP.PackageMetaData'
+[2019.10.08-19.25.09:894][400]LogMetaData: Removing '/Game/Blueprints/VideoBP.VideoBP_C:Plane3' ref from Metadata '/Game/VideoBP.PackageMetaData'
+[2019.10.08-19.25.09:894][400]LogMetaData: Removing '/Game/Blueprints/VideoBP.VideoBP_C:Plane4' ref from Metadata '/Game/VideoBP.PackageMetaData'
+[2019.10.08-19.25.09:894][400]LogMetaData: Removing '/Game/Blueprints/VideoBP.VideoBP_C:Plane5' ref from Metadata '/Game/VideoBP.PackageMetaData'
+[2019.10.08-19.25.09:894][400]LogMetaData: Removing '/Game/Blueprints/VideoBP.VideoBP_C:Plane6' ref from Metadata '/Game/VideoBP.PackageMetaData'
+[2019.10.08-19.25.09:894][400]LogMetaData: Removing '/Game/Blueprints/VideoBP.VideoBP_C:Plane7' ref from Metadata '/Game/VideoBP.PackageMetaData'
+[2019.10.08-19.25.09:936][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ColorPickerBP" FILE="../../../../../Projects/LightingTest/Content/Blueprints/ColorPickerBP.uasset" SILENT=true
+[2019.10.08-19.25.09:952][400]LogSavePackage: Moving '../../../../../Projects/LightingTest/Saved/ColorPickerBPBD81AC584629F1C29B166D99EB175AC0.tmp' to '../../../../../Projects/LightingTest/Content/Blueprints/ColorPickerBP.uasset'
+[2019.10.08-19.25.09:960][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ColorPickerBP" FILE="../../../../../Projects/LightingTest/Content/ColorPickerBP.uasset" SILENT=true
+[2019.10.08-19.25.09:975][400]LogSavePackage: Moving '../../../../../Projects/LightingTest/Saved/ColorPickerBP5036781F49EBBA180383F1A9339E1DC2.tmp' to '../../../../../Projects/LightingTest/Content/ColorPickerBP.uasset'
+[2019.10.08-19.25.09:981][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/LightBP" FILE="../../../../../Projects/LightingTest/Content/Blueprints/LightBP.uasset" SILENT=true
+[2019.10.08-19.25.09:992][400]LogSavePackage: Moving '../../../../../Projects/LightingTest/Saved/LightBP828ECC8E4DA7C01151BF1193F4275935.tmp' to '../../../../../Projects/LightingTest/Content/Blueprints/LightBP.uasset'
+[2019.10.08-19.25.09:998][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LightBP" FILE="../../../../../Projects/LightingTest/Content/LightBP.uasset" SILENT=true
+[2019.10.08-19.25.10:013][400]LogSavePackage: Moving '../../../../../Projects/LightingTest/Saved/LightBPBA351BDC41855985B718B9B6F95B2BAF.tmp' to '../../../../../Projects/LightingTest/Content/LightBP.uasset'
+[2019.10.08-19.25.10:019][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/LightingRotator" FILE="../../../../../Projects/LightingTest/Content/Blueprints/LightingRotator.uasset" SILENT=true
+[2019.10.08-19.25.10:028][400]LogSavePackage: Moving '../../../../../Projects/LightingTest/Saved/LightingRotator0B992B144C4A8477544577B195BE87FB.tmp' to '../../../../../Projects/LightingTest/Content/Blueprints/LightingRotator.uasset'
+[2019.10.08-19.25.10:035][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LightingRotator" FILE="../../../../../Projects/LightingTest/Content/LightingRotator.uasset" SILENT=true
+[2019.10.08-19.25.10:048][400]LogSavePackage: Moving '../../../../../Projects/LightingTest/Saved/LightingRotator63159DD74545986EFFFB5E8CF25DED71.tmp' to '../../../../../Projects/LightingTest/Content/LightingRotator.uasset'
+[2019.10.08-19.25.10:053][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/LightingSpotLightRack" FILE="../../../../../Projects/LightingTest/Content/Blueprints/LightingSpotLightRack.uasset" SILENT=true
+[2019.10.08-19.25.10:080][400]LogSavePackage: Moving '../../../../../Projects/LightingTest/Saved/LightingSpotLightRackF2E860644829D175FF480E846744A96F.tmp' to '../../../../../Projects/LightingTest/Content/Blueprints/LightingSpotLightRack.uasset'
+[2019.10.08-19.25.10:086][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LightingSpotLightRack" FILE="../../../../../Projects/LightingTest/Content/LightingSpotLightRack.uasset" SILENT=true
+[2019.10.08-19.25.10:100][400]LogSavePackage: Moving '../../../../../Projects/LightingTest/Saved/LightingSpotLightRack3C33F19644F911DED509D9BA35F1D9DA.tmp' to '../../../../../Projects/LightingTest/Content/LightingSpotLightRack.uasset'
+[2019.10.08-19.25.10:106][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/LightRotator" FILE="../../../../../Projects/LightingTest/Content/Blueprints/LightRotator.uasset" SILENT=true
+[2019.10.08-19.25.10:116][400]LogSavePackage: Moving '../../../../../Projects/LightingTest/Saved/LightRotatorA5C28E444FE2E3FAF1666589C95289F3.tmp' to '../../../../../Projects/LightingTest/Content/Blueprints/LightRotator.uasset'
+[2019.10.08-19.25.10:138][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VideoBP" FILE="../../../../../Projects/LightingTest/Content/Blueprints/VideoBP.uasset" SILENT=true
+[2019.10.08-19.25.10:179][400]LogSavePackage: Moving '../../../../../Projects/LightingTest/Saved/VideoBPC30DEAC0421E9887A5A9B0B3DD99F0E8.tmp' to '../../../../../Projects/LightingTest/Content/Blueprints/VideoBP.uasset'
+[2019.10.08-19.25.10:185][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VideoBP" FILE="../../../../../Projects/LightingTest/Content/VideoBP.uasset" SILENT=true
+[2019.10.08-19.25.10:200][400]LogSavePackage: Moving '../../../../../Projects/LightingTest/Saved/VideoBP01984ED44A9CE80049CA568A982259E5.tmp' to '../../../../../Projects/LightingTest/Content/VideoBP.uasset'
+[2019.10.08-19.25.10:411][400]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2019.10.08-19.25.10:455][400]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2019.10.08-19.25.10:493][400]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
