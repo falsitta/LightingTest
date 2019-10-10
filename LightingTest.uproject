@@ -7,15 +7,15 @@
 		{
 			"Name": "LightingTest",
 			"Type": "Runtime",
-			"LoadingPhase": "Default"
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine",
+				"Slate",
+				"SlateCore"
+			]
 		}
 	],
 	"Plugins": [
-		{
-			"Name": "VictoryBPLibrary",
-			"Enabled": true,
-			"MarketplaceURL": "http://www.ue4code.com"
-		},
 		{
 			"Name": "VictoryUMG",
 			"Enabled": true
