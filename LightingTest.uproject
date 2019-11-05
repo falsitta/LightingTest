@@ -11,13 +11,18 @@
 			"AdditionalDependencies": [
 				"Engine",
 				"Slate",
-				"SlateCore"
+				"SlateCore",
+				"UMG"
 			]
 		}
 	],
 	"Plugins": [
 		{
 			"Name": "VictoryUMG",
+			"Enabled": true
+		},
+		{
+			"Name": "EditorScriptingUtilities",
 			"Enabled": true
 		}
 	]
