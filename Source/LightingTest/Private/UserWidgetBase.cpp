@@ -204,7 +204,7 @@ void UUserWidgetBase::OnConstructContextMenu()
 			::FGetter::CreateUObject(this, &UUserWidgetBase::GetButtonLabel)), TAttribute<FText>::Create(TAttribute<FText>
 				::FGetter::CreateUObject(this, &UUserWidgetBase::GetButtonLabel)), DummyIcon);
 
-		//MenuBuilder.AddMenuEntry(GenericCommands.Cut, NAME_None, TAttribute<FText>("Hello"), TAttribute<FText>("Hello"), DummyIcon);
+		MenuBuilder.AddMenuEntry(GenericCommands.Cut, NAME_None, TAttribute<FText>("Hello"), TAttribute<FText>("Hello"), DummyIcon);
 		//MenuBuilder.AddMenuEntry(GenericCommands.Copy, NAME_None, TAttribute<FText>("Hello"), TAttribute<FText>("Hello"), DummyIcon);
 		//MenuBuilder.AddMenuEntry(GenericCommands.Paste, NAME_None, TAttribute<FText>("Hello"), TAttribute<FText>("Hello"), DummyIcon);
 		//MenuBuilder.AddMenuEntry(GenericCommands.Duplicate, NAME_None, TAttribute<FText>("Hello"), TAttribute<FText>("Hello"), DummyIcon);
