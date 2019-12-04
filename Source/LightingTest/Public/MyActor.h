@@ -32,6 +32,12 @@ public:
 	UPROPERTY(VisibleAnywhere, BlueprintReadWrite, Category = "Light")
 		UPointLightComponent* pointLight;
 
+	UPROPERTY(EditAnywhere)
+		class UMaterial* OnMaterial;
+
+	UPROPERTY(EditAnywhere)
+		class UMaterial* OffMaterial;
+
 
 protected:
 	// Called when the game starts or when spawned

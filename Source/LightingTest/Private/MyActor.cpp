@@ -4,6 +4,10 @@
 #include "MyActor.h"
 #include "UObject/ConstructorHelpers.h"
 #include "Engine/Scene.h"
+#include "Materials/MaterialExpression.h"
+#include "Runtime/Engine/Classes/Materials/MaterialExpressionConstant.h"
+//#include <Runtime\Engine\Private\Materials\MaterialExpressions.cpp>
+//#include "Runtime/Engine/Private/Materials/MaterialExpressions.cpp"
 
 // Sets default values
 AMyActor::AMyActor()
@@ -22,6 +26,27 @@ AMyActor::AMyActor()
 	//Create a static mesh to visualize collision, searches for asset based on file location.
 	staticMesh = CreateDefaultSubobject<UStaticMeshComponent>(TEXT("VisualRepresentation"));
 
+	OnMaterial = CreateDefaultSubobject<UMaterial>(TEXT("OnMaterial"));
+	OffMaterial = CreateDefaultSubobject<UMaterial>(TEXT("OffMaterial"));
+
+	/*UMaterialExpressionConstant* ZeroExpression = NewObject<UMaterialExpressionConstant>(OnMaterial);
+	ZeroExpression->R = 0.0f;
+	OnMaterial->Expressions.Add(ZeroExpression);
+	OnMaterial->Specular.Expression = ZeroExpression;
+	FStringAssetReference DiffuseAssetPath("Material'/Game/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.M_Tech_Hex_Tile_Pulse'");
+	UTexture* DiffuseTexture = Cast(DiffuseAssetPath.TryLoad());
+	if (DiffuseTexture)
+	{
+		UMaterialExpressionTextureSample* TextureExpression = NewObject(OnMaterial);
+		TextureExpression->Texture = DiffuseTexture;
+		TextureExpression->SamplerType = SAMPLERTYPE_Color;
+		OnMaterial->Expressions.Add(TextureExpression);
+		OnMaterial->BaseColor.Expression = TextureExpression;
+	}*/
+
+
+
+
 	staticMesh->SetupAttachment(RootComponent);
 	static ConstructorHelpers::FObjectFinder<UStaticMesh> staticMeshAsset(TEXT("StaticMesh'/Game/Meshes/SM_DiscoLight02_DiscoLight02.SM_DiscoLight02_DiscoLight02'"));
 
@@ -31,7 +56,7 @@ AMyActor::AMyActor()
 		staticMesh->SetStaticMesh(staticMeshAsset.Object);
 		staticMesh->SetRelativeLocation(FVector( 0, 0, 0));
 		staticMesh->SetWorldScale3D(FVector(1));
-			
+		
 	}
 
 	pointLight = CreateDefaultSubobject<UPointLightComponent>(TEXT("Light"));
@@ -52,8 +77,12 @@ AMyActor::AMyActor()
 // Called when the game starts or when spawned
 void AMyActor::BeginPlay()
 {
+	FString testString = (TEXT("This is a log"));
 	Super::BeginPlay();
-	
+	//GEngine->AddOnScreenDebugMessage(-1, 5.f, FColor::Red, TEXT("This is the log!"));
+	/*GEngine->AddOnScreenDebugMessage(-1, 5.f, FColor::Red, testString);
+	staticMesh->SetMaterial(0, OnMaterial);*/
+
 }
 
 // Called every frame
